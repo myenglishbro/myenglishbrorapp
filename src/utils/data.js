@@ -75,5 +75,18 @@ export const data =[
        type:"Grammar",
        enlace: "https://docs.google.com/document/d/1CeVFrtcUUUYYfBOyHIvXkZ0mUjl3vx7ri-L0BYkARd8/edit?usp=sharing",
        description:"Frases para obtener el mayor puntaje en la parte 1 donde las preguntas son de informacion personal y se puede obtener mejor nota",
+    },
+    {
+        id:7,
+       thumbnail:"https://i.ibb.co/Jr2xsnm/d7e7f35f-e268-4790-87d1-8839dcc1ca14.jpg",
+       thumbnailcae:" ",
+       thumbnailfce:"https://i.ibb.co/pQQkCtW/OIP-5.jpg",
+       thumbnailcpe:" ",
+       dateAdded:"05/01/2023",
+
+       title:"List of 200 Phrasal Verbs | B2 First (FCE) ",
+       type:"Vocabulary",
+       enlace: "https://docs.google.com/document/d/1kUtVFcyPfupiE32q77xJwfQ1afTjWB6nm39tZsNDoxI/edit?usp=sharing",
+       description:"Frases para obtener el mayor puntaje en la parte 1 donde las preguntas son de informacion personal y se puede obtener mejor nota",
     }
 ]
